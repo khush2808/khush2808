@@ -12,10 +12,12 @@
 <h3 align="left">Connect with me:</h3>
 <div style='display:flex'>
 <p align="left">
+ICPC regionalist in 2024 on 2 sites- Amritapuri and Chennai(best rank 48).
 <a href="https://www.leetcode.com/khush2808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khush2808" height="30" width="40" /></a>
 </p> 
 <p align="left">
-<a href="https://www.x.com/khushtechiiit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khush2808" height="30" width="40" /></a>
+https://codeforces.com/profile/khush2808
+https://codechef.com/users/khush2808
 </p> 
 <p align="left">
 <a href="www.linkedin.com/in/khush2808" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="khush2808" height="30" width="40" /></a>
