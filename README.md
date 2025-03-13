@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khush2808&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khush2808" alt="" /></a> </p>
-
+- 📄 Here's my resume [Drive Link](https://drive.google.com/file/d/1l2jwt9Y4j8dLHvFhMI1w8_NWw2F2gQlr/view)
 - 👨‍💻 Here's my portfolio [khushshah.vercel.app](https://khushshah.vercel.app)
 
 - 📫 How to reach me **khushshah675@gmail.com**
