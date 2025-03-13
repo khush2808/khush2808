@@ -15,13 +15,17 @@
 <div style='display:flex'>
 <p align="left">
 ICPC regionalist in 2024 on 2 sites- Amritapuri and Chennai(best rank 48).
+  My leet code here 
 <a href="https://www.leetcode.com/khush2808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khush2808" height="30" width="40" /></a>
 </p> 
 <p align="left">
+  Codeforces - 
 https://codeforces.com/profile/khush2808
+Codechef - 
 https://codechef.com/users/khush2808
 </p> 
 <p align="left">
+  Linkedin :
 <a href="www.linkedin.com/in/khush2808" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="khush2808" height="30" width="40" /></a>
 </p> 
 </div>
