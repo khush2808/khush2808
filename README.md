@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khush2808" alt="" /></a> </p>
 - 📄 Here's my resume <a href = "https://drive.google.com/file/d/1l2jwt9Y4j8dLHvFhMI1w8_NWw2F2gQlr/view">Drive Link</a>
 
-- 👨‍💻 Here's my portfolio <a href = "khushshah.vercel.app">khushshah.vercel.app</a>
+- 👨‍💻 Here's my portfolio <a href = "khushshah.vercel.app">khushshah.vercel.app</a> / <a href="khushshah.me">khushshah.me</a>
 
 - 📫 How to reach me **khushshah675@gmail.com**
 
