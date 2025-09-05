@@ -1,4 +1,4 @@
-# ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFCC00&center=true&vCenter=true&width=550&lines=Trust+the+process.)
+# ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFCC00&center=true&vCenter=true&width=550&lines=Trust+the+process+and+ship+fast.)
 
 <h1 align="center">Hi 👋, I'm Khush Shah</h1>
 
