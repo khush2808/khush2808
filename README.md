@@ -17,7 +17,7 @@
 <p align="left">
 ICPC regionalist in 2024 on 2 sites- Amritapuri and Chennai(best rank 48).
   My leet code here 
-<a href="https://www.leetcode.com/khush2808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khush2808" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/khushicpc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khush2808" height="30" width="40" /></a>
 </p> 
 <p align="left">
   Codeforces - 
