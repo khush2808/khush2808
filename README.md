@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Khush Shah
+> _"Build fast, learn faster, and keep shipping."_
 
 
----
 
 ## 🚀 About Me
+# 👋 Hi, I'm Khush Shah
 
 I'm a **Computer Science student** who enjoys building real-world products and solving hard problems.
 
@@ -59,8 +59,5 @@ ICPC experience + consistent practice has shaped how I approach optimization, ed
 
 </div>
 
----
-
-> _"Build fast, learn faster, and keep shipping."_
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFCC00&center=true&vCenter=true&width=700&lines=Trust+the+process+and+ship+fast.;Full-Stack+Developer+%26+Problem+Solver;ICPC+Regionalist+2024+%7C+Builder+at+Heart)
