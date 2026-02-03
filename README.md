@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-# 👋 Hi, I'm Khush Shah
+👋 Hi, I'm Khush Shah
 
 I'm a **Computer Science student** who enjoys building real-world products and solving hard problems.
 
