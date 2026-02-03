@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Khush Shah
 
-<div align="center">
-
-</div>
 
 ---
 
