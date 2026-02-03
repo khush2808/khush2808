@@ -1,58 +1,73 @@
-# ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFCC00&center=true&vCenter=true&width=550&lines=Trust+the+process+and+ship+fast.)
+# 👋 Hi, I'm Khush Shah
 
-<h1 align="center">Hi 👋, I'm Khush Shah</h1>
+<div align="center">
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFCC00&center=true&vCenter=true&width=700&lines=Trust+the+process+and+ship+fast.;Full-Stack+Developer+%26+Problem+Solver;ICPC+Regionalist+2024+%7C+Builder+at+Heart)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khush2808&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khush2808" alt="" /></a> </p>
-- 📄 Here's my resume <a href = "https://drive.google.com/file/d/1l2jwt9Y4j8dLHvFhMI1w8_NWw2F2gQlr/view">Drive Link</a>
-
-- 👨‍💻 Here's my portfolio <a href = "khushshah.vercel.app">khushshah.vercel.app</a> / <a href="khushshah.dev">khushshah.dev</a>
-
-- 📫 How to reach me **khushshah675@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<div style='display:flex'>
-<p align="left">
-ICPC regionalist in 2024 on 2 sites- Amritapuri and Chennai(best rank 48).
-  My leet code here 
-<a href="https://www.leetcode.com/khushicpc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khush2808" height="30" width="40" /></a>
-</p> 
-<p align="left">
-  Codeforces - 
-https://codeforces.com/profile/khush2808
-Codechef - 
-https://codechef.com/users/khush2808
-</p> 
-<p align="left">
-  Linkedin :
-<a href="www.linkedin.com/in/khush2808" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="khush2808" height="30" width="40" /></a>
-</p> 
 </div>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
+I'm a **Computer Science student** who enjoys building real-world products and solving hard problems.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khush2808&show_icons=true&locale=en" alt="khush2808" /></p>
+- 🏆 **ICPC Regionalist 2024** – Amritapuri & Chennai (Best Rank: **48**)
+- 💻 Strong interest in **Full‑Stack Development**, **System Design**, and **Competitive Programming**
+- 🧠 Comfortable switching between **product thinking** and **algorithmic depth**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khush2808&show_icons=true&locale=en&layout=compact" alt="khush2808" /></p>
+---
 
+## 🔗 Quick Links
 
+- 📄 **Resume**: [View on Drive](https://drive.google.com/file/d/1l2jwt9Y4j8dLHvFhMI1w8_NWw2F2gQlr/view)
+- 🌐 **Portfolio**: [khushshah.vercel.app](https://khushshah.vercel.app) | [khushshah.dev](https://khushshah.dev)
+- 📫 **Email**: khushshah675@gmail.com
 
-<!--
-**khush2808/khush2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧩 Competitive Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🟠 **LeetCode**: https://www.leetcode.com/khushicpc
+- 🔵 **Codeforces**: https://codeforces.com/profile/khush2808
+- 🟤 **CodeChef**: https://www.codechef.com/users/khush2808
+
+ICPC experience + consistent practice has shaped how I approach optimization, edge cases, and clean logic.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,react,nextjs,nodejs,express,mongodb,prisma,tailwind,docker,git,github,postman,gcp&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=khush2808&show_icons=true&theme=tokyonight" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khush2808&layout=compact&theme=tokyonight" height="165" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khush2808)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khush2808)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushshah675@gmail.com)
+
+</div>
+
+---
+
+> _"Build fast, learn faster, and keep shipping."_
+
