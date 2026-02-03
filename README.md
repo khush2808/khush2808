@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFCC00&center=true&vCenter=true&width=700&lines=Trust+the+process+and+ship+fast.;Full-Stack+Developer+%26+Problem+Solver;ICPC+Regionalist+2024+%7C+Builder+at+Heart)
-
 </div>
 
 ---
@@ -71,3 +69,4 @@ ICPC experience + consistent practice has shaped how I approach optimization, ed
 
 > _"Build fast, learn faster, and keep shipping."_
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFCC00&center=true&vCenter=true&width=700&lines=Trust+the+process+and+ship+fast.;Full-Stack+Developer+%26+Problem+Solver;ICPC+Regionalist+2024+%7C+Builder+at+Heart)
