@@ -1,6 +1,6 @@
 > _"Build fast, learn faster, and keep shipping."_
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khush2808&label=Profile%20views&color=0e75b6&style=flat" alt="khush2808" /> </p>
 
 ## 🚀 About Me
 👋 Hi, I'm Khush Shah
