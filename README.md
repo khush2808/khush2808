@@ -45,7 +45,7 @@ ICPC experience + consistent practice has shaped how I approach optimization, ed
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-peach-pi.vercel.app/api?username=khush2808&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=45,0f2027,203a43,2c5364&text_color=ffffff&icon_color=00f5ff&title_color=ffffff&border_color=0f2027)
+![GitHub Stats](https://github-readme-stats-peach-pi.vercel.app/api?username=khush2808&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=gruvbox)
 </div>
 
 ---
