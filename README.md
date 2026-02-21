@@ -35,7 +35,7 @@ ICPC experience + consistent practice has shaped how I approach optimization, ed
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,react,nextjs,nodejs,express,mongodb,prisma,tailwind,docker,git,github,postman,fastapi,aws,azure,expo&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,react,reactnative,nextjs,nodejs,express,bun,mongodb,prisma,tailwind,docker,git,github,postman,fastapi,aws,azure,expo&theme=dark" />
 
 </div>
 
