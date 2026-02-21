@@ -1,7 +1,6 @@
 name: Update README cards
 
 on:
-  schedule:
   workflow_dispatch:
 
 permissions:
