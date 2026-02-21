@@ -35,13 +35,7 @@ ICPC experience + consistent practice has shaped how I approach optimization, ed
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,react,reactnative,nextjs,nodejs,express,bun,mongodb,prisma,postgres,mysql,tailwind,docker,git,github,postman,fastapi,aws,azure,expo&theme=dark" />
-
-<br/>
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Chalk](https://img.shields.io/badge/Chalk-000000?style=for-the-badge&logo=npm&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,react,nextjs,nodejs,express,bun,mongodb,prisma,postgres,mysql,tailwind,docker,git,github,postman,fastapi,aws,azure,expo&theme=dark" />
 
 </div>
 
