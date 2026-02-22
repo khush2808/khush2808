@@ -23,8 +23,10 @@ I'm a **Computer Science student** who enjoys building real-world products and s
 
 ## 🧩 Competitive Programming
 
+- 📊 **Codolio**: https://codolio.com/profile/khush2808 — ratings & question count across platforms
 - 🟠 **LeetCode**: https://www.leetcode.com/khushicpc
 - 🔵 **Codeforces**: https://codeforces.com/profile/khush2808
+- 🟢 **AtCoder**: https://atcoder.jp/users/khush2808
 - 🟤 **CodeChef**: https://www.codechef.com/users/khush2808
 
 ICPC experience + consistent practice has shaped how I approach optimization, edge cases, and clean logic.
@@ -55,6 +57,7 @@ ICPC experience + consistent practice has shaped how I approach optimization, ed
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khush2808)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/khush2808)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushshah675@gmail.com)
 
 </div>
