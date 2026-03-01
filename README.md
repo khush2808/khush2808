@@ -29,8 +29,6 @@ I'm a **Computer Science student** who enjoys building real-world products and s
 - 🟢 **AtCoder**: https://atcoder.jp/users/khush2808
 - 🟤 **CodeChef**: https://www.codechef.com/users/khush2808
 
-ICPC experience + consistent practice has shaped how I approach optimization, edge cases, and clean logic.
-
 ---
 
 ## 🛠️ Tech Stack
