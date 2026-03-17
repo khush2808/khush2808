@@ -7,7 +7,7 @@
 
 I'm a **Computer Science student** who enjoys building real-world products and solving hard problems.
 
-- 🏆 **ICPC Regionalist 2024** – Amritapuri & Chennai (Best Rank: **48**)
+- 🏆 **ICPC Regionalist 2024** – Amritapuri & Chennai (Best Rank for College till date)
 - 💻 Strong interest in **Full‑Stack Development**, **System Design**, and **Competitive Programming**
 - 🧠 Comfortable switching between **product thinking** and **algorithmic depth**
 
